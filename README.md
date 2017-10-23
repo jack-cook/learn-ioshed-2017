@@ -1,4 +1,6 @@
 # Hold for myself to study
+Copy from https://github.com/google/iosched
+modified for personal study purpose
 
 Google I/O Android App
 ======================
