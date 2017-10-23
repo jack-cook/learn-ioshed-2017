@@ -38,7 +38,6 @@ import com.google.firebase.tasks.Tasks;
 import com.google.samples.apps.iosched.server.FirebaseWrapper;
 import com.google.samples.apps.iosched.server.schedule.Config;
 import com.google.samples.apps.iosched.server.userdata.Ids;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;

@@ -93,6 +93,6 @@ appengine {
         installClientLibsOnBuild = true
         // Use this field to set the output directory of Endpoints client library jars. This is used
         // together with the appengineEndpointsExportClientLibs task.
-        // clientLibJarOut = new File('PATH_TO_OUTPUT_DIRECTORY')
+         clientLibJarOut = new File('/Users/jack/Develop/Library/temp')
     }
 }
